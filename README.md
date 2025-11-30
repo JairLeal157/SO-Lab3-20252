@@ -1,3 +1,5 @@
+video: https://drive.google.com/file/d/1pq0IdwHQPRVrIlmNMt-vZlEAmCFTK-0A/view?usp=sharing
+
 # Laboratorio 3: Programación Concurrente con Pthreads
 
 ## 1. Objetivos
